@@ -223,7 +223,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #81B66A;}
   flex-direction: column;
 
 	  position: relative;
-	  z-index: -1;
+	  z-index: 0;
 }
 
 #home {transition: height 999999s !important;}
