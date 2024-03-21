@@ -213,7 +213,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #81B66A;}
 	  background-size: cover;
 	  background-attachment: fixed;
   height: 100vh;
-	
+	transition: height 999999s !important;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -226,7 +226,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #81B66A;}
 	  z-index: -1;
 }
 
-#home {transition: height 999999s;}
+#home {transition: height 999999s !important;}
 
 .header-area{position: absolute;top:0;left:0;width: 100%;z-index: 99 !important;}
 
