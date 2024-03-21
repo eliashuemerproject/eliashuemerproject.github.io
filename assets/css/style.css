@@ -221,7 +221,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #81B66A;}
   -ms-flex-direction: column;
   flex-direction: column;
 
-	  position: absolute;
+	  position: relative;
 	  z-index: -1;
 }
 
