@@ -213,7 +213,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #81B66A;}
 	  background-size: cover;
 	  background-attachment: fixed;
   height: 100vh;
-	transition: height 999999s
+	transition: height 999999s;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
