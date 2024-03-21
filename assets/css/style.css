@@ -212,7 +212,10 @@ nav.navbar.bootsnav .navbar-toggle i{color: #81B66A;}
     background-position: center;
 	  background-size: cover;
 	  background-attachment: fixed;
-  height: 100dvh;
+  height: 100vh; // fallback and unsupported browsers height: 
+-moz-available; // Mozilla-based browsers height: 
+-webkit-fill-available; // WebKit-based browsers height: 
+fill-available;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
