@@ -86,7 +86,7 @@ ul li {
 select,input,textarea,button,.form-control{box-shadow:none;outline:0!important;}
 button {background: transparent;border: 0;font-size: 16px;text-transform: capitalize; letter-spacing: 0	px;}
 
-html,body{height: 100%;}
+html,body{height: 100vh;}
 
 [placeholder]:focus::-webkit-input-placeholder {
   -webkit-transition: opacity 0.3s 0.3s ease; 
